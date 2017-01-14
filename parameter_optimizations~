@@ -1,0 +1,103 @@
+30k 0.2 100/1000 10/50 124/30/10 euclidean no l2
+totalError: 0.014250536743411845
+Solver Steps: 357101 Solver Time 157103119129
+DPLL Steps: 287738 DPLL Time 5059347708
+
+30k 0.2 5000/5000 10/50 124/30/10 euclidean no l2
+totalError: 0.017534305342784398
+Solver Steps: 370926 Solver Time 214384047493
+DPLL Steps: 285584 DPLL Time 6665810219
+
+30k 0.2 100/100 10/50 124/30/10 euclidean no l2
+totalError: 0.009454739368427036
+Solver Steps: 294817 Solver Time 165067918715
+DPLL Steps: 283577 DPLL Time 4721106187
+
+3k 0.2 100/100 10/50 124/30/10 cross entropy mod no l2
+totalError: 0.409147207717714
+Solver Steps: 321864 Solver Time 187905591039
+DPLL Steps: 283440 DPLL Time 5660506346
+
+30k 0.2 100/100 10/50 124/30/10 cross entropy mod no l2
+totalError: 0.4001478080416595
+Solver Steps: 217928 Solver Time 175195677097
+DPLL Steps: 284763 DPLL Time 5740760952
+
+30k 0.2 100/100 10/50 124/30/10 cross entropy gpu no l2
+totalError: 0.4185624245697149
+Solver Steps: 229438 Solver Time 164810110075
+DPLL Steps: 284668 DPLL Time 8149302014
+
+30k 0.2 100/100 10/50 124/30/10 cross entropy gpu no l2 5 iterations
+Solver Steps: 204973 Solver Time 139718246968
+DPLL Steps: 285211 DPLL Time 6817716482
+
+30k 0.2 100/100 10/250 124/30/10 cross entropy gpu no l2
+totalError: 0.41689043917447505
+Solver Steps: 209216 Solver Time 102987631878
+
+100k 0.1 1000/1000 10/250 1240/300/30 cross entropy gpu no l2
+totalError: 0.4796649054093405
+Solver Steps: 2523743 Solver Time 9508749919998
+DPLL Steps: 1477030 DPLL Time 44074591067
+
+30k 0.2 100/100 10/250 124/30/10 cross entropy gpu no l2 nestrov 0.9
+totalError: 0.42807942877607186
+Solver Steps: 220548 Solver Time 169528931291
+DPLL Steps: 283482 DPLL Time 7161616644
+
+30k 0.2 100/100 10/250 124/30/10 cross entropy gpu no l2 nestrov 0.99
+totalError: 0.3887122229433395
+Solver Steps: 202074 Solver Time 164514564596
+DPLL Steps: 284708 DPLL Time 5625224526
+
+100k 0.02 1000/1000 10/250 1240/300/30 cross entropy gpu no l2 nestrov 0.99
+totalError: 0.43360238046779176
+Solver Steps: 219216 Solver 
+DPLL Steps: 240075 DPLL
+1700 solved
+
+30k 0.02 100/100 10/250 124/30/10 cross entropy gpu no l2 nestrov 0.99
+totalError: 0.3957397937534744
+Solver Steps: 21486 Solver Time 15283388636
+DPLL Steps: 27968 DPLL Time 757540618
+
+30k 0.2 100/100 10/250 124/30/10 cross entropy gpu no l2 nestrov 0.99 (bugged) DS
+totalError: 0.5094116207544293
+Timeout, sorry!
+Timeout, sorry!
+solverRes==null && dpllRes!=null
+Solver Steps: 36788 Solver Time 22494446728
+DPLL Steps: 28445 DPLL Time 1238284495
+
+100k 0.005 100/100 10/50 1240/300/10 cross entropy gpu no l2 nestrov 0.995
+totalError: 0.41065937405935043
+Solver Steps: 97077 Solver Time 310387247776
+DPLL Steps: 149758 DPLL Time 2657422557
+
+30k 0.02 100/1000 10/50 124/30/10 cross entropy gpu no l2
+totalError: 0.5517688077593449
+Solver Steps: 26502 Solver Time 18014364958
+DPLL Steps: 28955 DPLL Time 711817122
+
+30k 0.01 100/1000 20/50 124/30/10 cross entropy gpu no l2 nestrov 0.95 alg 9 1.0
+totalError: 0.4528052271990922
+Solver Steps: 19713 Solver Time 13912902269
+DPLL Steps: 28883 DPLL Time 527617286
+
+30k 0.01 100/1000 20/50 124/30/10 cross entropy gpu no l2 nestrov 0.95 alg 9 0.8
+totalError: 0.46798284300932685
+Solver Steps: 18147 Solver Time 14050356602
+DPLL Steps: 27971 DPLL Time 1363612098
+
+30k 0.01 100/1000 20/50 1240/300/30 cross entropy gpu no l2 nestrov 0.95 alg 9 0.1
+totalError: 0.5714374995274466
+Solver Steps: 96168 Solver Time 402365842289
+DPLL Steps: 152284 DPLL Time 1848651554
+
+100k 0.01 100/1000 20/50 4043/650/40 cross entropy gpu no l2 nestrov 0.95 alg 9 0.1
+totalError: 0.5172510203638122
+Solver Steps: 20486 Solver Time 658630256958
+DPLL Steps: 31220 DPLL Time 3884680750
+
+
